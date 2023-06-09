@@ -1,0 +1,26 @@
+{
+    "nome": "Teteco",
+    "time": "pinchers",
+    "vivo": "True",
+    "energia": 100,
+    "mochila": [
+        "sashe",
+        "petisco",
+        "tataminho",
+        "cobertinha"
+    ],
+    "familiares": [
+        {
+            "tipo": "Minie",
+            "habilidade": 80
+        },
+        {
+            "tipo": "Kai",
+            "habilidade": 100
+        },
+        {
+            "tipo": "To",
+            "habilidade": 50
+        }
+    ]
+}
