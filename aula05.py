@@ -1,3 +1,6 @@
+# caso bugue a leitura no linux, estudar sobre o comando abaixo:
+# !/usr/bin/env python3
+
 import random
 num_i=10 #inteiro , float(num_i) mostra o i em f
 num_f=5.2 #float se usar int(num_f), mostra a parte inteira
